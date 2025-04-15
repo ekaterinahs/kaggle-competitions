@@ -6,7 +6,7 @@ Welcome to my Kaggle Competitions solution repository! This repository serves as
 
 # 📚 Competitions
 
-_Click on the competition title to view my solution! 🙂_
+_Click on the competition title to view my work! 🙂_
 
 ### 👗 [Competition #1 H&M Personalized Fashion Recommendations](https://github.com/ekaterinahs/kaggle-competitions/blob/main/Competition%20%231%20-%20H%26M%20Personalized%20Fashion%20Recommendations/README.md)
 
